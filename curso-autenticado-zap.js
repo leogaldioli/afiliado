@@ -1541,7 +1541,7 @@
 		return {
 			c()
 			{
-				e = d("button"), v(e, "class", "svelte-h9vrs5")
+				e = d("button"), v(e, "class", "btnConv svelte-h9vrs5")
 			},
 			m(o, i)
 			{
@@ -1626,7 +1626,7 @@
 			c()
 			{
 				e = d("div"), n = d("div"), o = d("p"), i = m(t[1]), s = h(), a = d("form"), c = d("div"), c.innerHTML = '<input type="text" name="name" placeholder="Nome" class="svelte-11d2z92 frm-name"/> \n\t\t\t<input type="email" name="email" placeholder="Email" class="svelte-11d2z92 frm-email"/> \n\t\t\t<input required type="text" name="phone" placeholder="Telefone" class="svelte-11d2z92 frm-phone"/>', u = h(), b = d("button"), y = m("Iniciar a conversa"), x = h(), w = d("a"), w.innerHTML = '',
-				 v(o, "class", "svelte-11d2z92"), v(n, "class", "header svelte-11d2z92"), v(c, "class", "input-stack svelte-11d2z92"), v(b, "type", "submit"), b.disabled = t[2], v(b, "class", "svelte-11d2z92 btnConv"), v(a, "class", "svelte-11d2z92"), v(w, "href", "https://materiais.resultadosdigitais.com.br/botao-de-whatsapp-gratuito?utm_source=whats-free&utm_medium=referral&utm_campaign=gerador-botao-whatsapp"), v(w, "target", "_blank"), v(w, "rel", "noopener noreferrer"), v(w, "class", "svelte-11d2z92"), v(e, "class", "box svelte-11d2z92"), v(e, "style", A = t[0] && "display: flex !important;")
+				 v(o, "class", "svelte-11d2z92"), v(n, "class", "header svelte-11d2z92 btnConv"), v(c, "class", "input-stack svelte-11d2z92"), v(b, "type", "submit"), b.disabled = t[2], v(b, "class", "svelte-11d2z92 btnConv"), v(a, "class", "svelte-11d2z92 btnConv"), v(w, "href", "https://materiais.resultadosdigitais.com.br/botao-de-whatsapp-gratuito?utm_source=whats-free&utm_medium=referral&utm_campaign=gerador-botao-whatsapp"), v(w, "target", "_blank"), v(w, "rel", "noopener noreferrer"), v(w, "class", "svelte-11d2z92"), v(e, "class", "box svelte-11d2z92"), v(e, "style", A = t[0] && "display: flex !important;")
 			},
 			m(r, p)
 			{
