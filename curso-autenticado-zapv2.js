@@ -1770,7 +1770,7 @@
 					utmcontent: getParameterByName('utm_content') || '',
 					utmm: getParameterByName('utm_medium') || '',
 					gclid: getParameterByName('gclid') || '',
-					gclid: getParameterByName('fbclid') || ''
+					fbclid: getParameterByName('fbclid') || ''
 				}
 				//return X.a.post("https://whatsfree-ezjajjdcda-ue.a.run.app/whats_conversion", e)
 				function getPhoneNumber(phoneNumberString) {
@@ -1789,7 +1789,7 @@
 						"entry.818341251":e.utmm, 
 						"entry.1328484019":e.utmcontent, 
 						"entry.1385042810":e.gclid,
-						"entry.1580655102":e.fblid
+						"entry.1580655102":e.fbclid
 					})
 			})(n).finally(() =>
 			{
