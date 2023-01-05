@@ -1797,7 +1797,7 @@
 				// if (getParameterByName('utmo') == 'instagram')
 				// 	window.location.href = "https://bit.ly/patinepstoreinstab"
 				// else
-				window.location.href = "https://wa.me/5544998345361?text=Entrei%20no%20site%20e%20gostaria%20de%20obter%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20curso%20" + document.title
+				window.location.href = "https://wa.me/5544998345361?text=Entrei%20no%20site%20e%20gostaria%20de%20obter%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20" + document.title
 			}), a()
 		}, r, i]
 	}
